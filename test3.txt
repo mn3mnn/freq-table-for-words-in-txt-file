@@ -1,0 +1,10 @@
+
+this IS test file number3
+
+test-case-three
+one
+two two three
+three = three
+four. + four (four) four.
+
+bye, bye :(
